@@ -1,8 +1,5 @@
-# React + Vite
+# React Mini Context App : ThemeSwitcher
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Note : 
+  These are a set of React Apps built as part of learning Context APIs during course. Note that code has been made simpler, as I have used intuitive naming, symbols and a ton of explainations. 
+  Feel free to use them for studying. Particularly this one is known as ThemeSwitcher app.
